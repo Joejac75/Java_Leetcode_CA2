@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
