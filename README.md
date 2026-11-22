@@ -58,4 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/0912-sort-an-array) |
+| [1603-design-parking-system](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/1603-design-parking-system) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
