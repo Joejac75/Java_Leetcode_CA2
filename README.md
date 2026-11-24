@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/0912-sort-an-array) |
+| [1470-shuffle-the-array](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/1470-shuffle-the-array) |
 ## Binary Search
 |  |
 | ------- |
