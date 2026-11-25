@@ -1,22 +1,13 @@
 class Solution {
     public String toLowerCase(String s) {
+        char[] arr = s.toCharArray();
 
-        // Manual ASCII conversion
-
-        String result = "";
-
-        for(int i = 0; i < s.length(); i++){
-
-            char ch = s.charAt(i);
-
-            if(65 <= ch && ch <= 90){
-                result += (char)(ch + 32);
-            }
-            else{
-                result += ch;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] >= 'A' && arr[i] <= 'Z') {
+                arr[i] = (char)(arr[i] + 32);
             }
         }
 
-        return result;
+        return new String(arr);
     }
 }
