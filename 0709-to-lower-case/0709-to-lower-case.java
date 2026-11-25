@@ -3,7 +3,7 @@ class Solution {
         char[] arr = s.toCharArray();
 
         for (int i = 0; i < arr.length; i++) {
-            if (arr[i] >= 'A' && arr[i] <= 'Z') {
+            if (arr[i] >= 65 && arr[i] <= 90) {
                 arr[i] = (char)(arr[i] + 32);
             }
         }
