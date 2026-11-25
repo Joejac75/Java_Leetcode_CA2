@@ -67,9 +67,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/1603-design-parking-system) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Joejac75/Java_Leetcode_CA2/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
